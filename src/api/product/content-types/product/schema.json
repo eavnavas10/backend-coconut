@@ -42,11 +42,11 @@
     "gender": {
       "type": "enumeration",
       "enum": [
-        "unisex",
-        "male",
-        "female",
-        "boy",
-        "girl"
+        "Unisex",
+        "Hombre",
+        "Mujer",
+        "Niño",
+        "Niña"
       ]
     },
     "categories": {
